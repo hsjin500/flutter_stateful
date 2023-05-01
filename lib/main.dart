@@ -23,6 +23,7 @@ class _MyAppState extends State<App> {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
+      debugShowCheckedModeBanner: false,
       home: Scaffold(
         backgroundColor: const Color(0xFFF4EDDB),
         body: Center(
