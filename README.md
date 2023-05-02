@@ -1,17 +1,3 @@
 # toonflix2
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# flutter_stateful
+<img width="357" alt="image" src="https://user-images.githubusercontent.com/65380084/235691354-6121b0af-4af5-4551-a3b9-0358e56ffa20.png">
